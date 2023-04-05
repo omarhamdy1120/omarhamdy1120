@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&theme=dark">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarhamdy1120&count_private=true&show_icons=true&theme=dark">
 
 <!--
 **omarhamdy1120/omarhamdy1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
