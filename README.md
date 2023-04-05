@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarhamdy1120&count_private=true&show_icons=true&theme=dark">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarhamdy1120&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omarhamdy1120&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **omarhamdy1120/omarhamdy1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
