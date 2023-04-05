@@ -26,16 +26,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-## Languages:
-<div align="center">  
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="38" /></a>
-</div>
 
-</td><td valign="top" width="33%">
 
 
 <!--
