@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- STATS -->
 
 <div align="center">
