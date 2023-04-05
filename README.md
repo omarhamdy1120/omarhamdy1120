@@ -16,4 +16,3 @@
 <a href="https://github.com/omarhamdy1120/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarhamdy1120&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="omarhamdyStreak-stats"></a>
 </div>
 
-<table><tr><td valign="top" width="33%">
