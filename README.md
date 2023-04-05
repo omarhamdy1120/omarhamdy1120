@@ -5,7 +5,6 @@
  
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
-<a href="https://github.com/juletopi/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=omarhamdy1120&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
@@ -17,12 +16,8 @@
 <a href="https://github.com/juletopi/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarhamdy1120&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats"></a>
 </div>
 
-<!-- LEARNING -->
 
-<div align="center">
 
-## <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Custom%20Emojis/ProgrammingLanguage-gif.gif"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="38" alt="ProgrammingLanguage-gif"></a>&#160; What am I currently learning?
-<br>
 
 <table><tr><td valign="top" width="33%">
 
